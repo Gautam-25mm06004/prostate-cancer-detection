@@ -1,0 +1,12 @@
+# Current stable APIs. Keep Colab's compatible torch/torchvision pair if installed.
+torch>=2.9,<3
+torchvision>=0.24,<1
+timm>=1.0.29,<2
+numpy>=2.0,<3
+pandas>=2.2,<4
+Pillow>=11,<13
+scikit-learn>=1.6,<2
+scipy>=1.15,<2
+openslide-python>=1.4.6,<2
+openslide-bin>=4.0.0,<5
+tqdm>=4.67,<5

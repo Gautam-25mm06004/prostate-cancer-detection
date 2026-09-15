@@ -1,0 +1,9 @@
+[project]
+name = "panda-prostate-grading"
+version = "0.1.0"
+description = "Python script workflows for PANDA slide grading, adapted from DrHB/prostate-cancer-detection"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
